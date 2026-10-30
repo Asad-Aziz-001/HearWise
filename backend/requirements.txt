@@ -1,0 +1,24 @@
+# ============ FLASK CORE ============
+Flask==3.0.0
+Flask-RESTful==0.3.10
+Flask-JWT-Extended==4.6.0
+Flask-SQLAlchemy==3.1.1
+Flask-CORS==4.0.0
+python-dotenv==1.0.0
+
+# ============ AUTHENTICATION ============
+bcrypt==4.1.2
+
+# ============ DATA PROCESSING ============
+numpy>=2.0.0
+pandas>=2.3.3
+
+# ============ AI & TEXT-TO-SPEECH ============
+gTTS==2.5.1
+
+# ============ PDF REPORT & CHARTS ============
+reportlab==4.2.5
+matplotlib==3.9.2
+
+# ============ HTTP REQUESTS (gTTS dependency) ============
+requests>=2.32.0
