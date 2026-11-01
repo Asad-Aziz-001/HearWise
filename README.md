@@ -166,7 +166,9 @@ Built with **React.js** frontend and **Python Flask** backend, the system provid
 [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
 ### 🔹 AI & Audio
-[![Google](https://skillicons.dev/icons?i=google)](https://gtts.readthedocs.io)
+<a href="https://gtts.readthedocs.io">
+  <img src="https://img.shields.io/badge/Google-gTTS-blue?style=for-the-badge&logo=google" alt="Google gTTS"/>
+</a>
 
 </div>
 
@@ -196,17 +198,17 @@ Built with **React.js** frontend and **Python Flask** backend, the system provid
 
 ```
 ╔═══════════════════════════════════════════════════════════════════════╗
-║                          🖥️  USER INTERFACE                           ║
-║  ┌──────────┐  ┌──────────┐  ┌──────────┐  ┌──────────┐  ┌────────┐    ║
-║  │🎮 Games  │  │📊 Dash   │  │🧪 AI Lab │  │📄 Report │  │🎤 Speech│    ║
-║  └────┬─────┘  └────┬─────┘  └────┬─────┘  └────┬─────┘  └───┬────┘    ║
+║                          🖥️  USER INTERFACE                          ║
+║  ┌──────────┐  ┌──────────┐  ┌──────────┐  ┌──────────┐  ┌────────┐  ║
+║  │🎮 Games  │ │📊 Dash   │ │🧪 AI Lab │   │📄 Report│ │🎤 Speech│ ║
+║  └────┬─────┘  └────┬─────┘  └────┬─────┘  └────┬─────┘  └───┬────┘  ║
 ╠═══════╪═════════════╪═════════════╪══════════════╪════════════╪══════╣
 ║       ╰─────────────┴─────────────┴──────────────╯            │      ║
 ║                         FLASK ROUTES                           │      ║
 ║  ┌─────────────────────────────────────────────────────────────┘      ║
-║  │  auth_routes │ games_routes │ dashboard_routes │ admin_routes       ║
+║  │  auth_routes │ games_routes │ dashboard_routes │ admin_routes      ║
 ║  └─────────────────────────────────────────────────────────────────── ║
-╠═════════════════════════════════════════════════════════════════════╣
+╠═════════════════════════════════════════════════════════════════════ ╣
 ║                       🤖  AI ENGINE LAYER                            ║
 ║  ┌──────────────────────────────────────────────────────────────┐    ║
 ║  │          AI Game Generator + Adaptive Engine                 │    ║
