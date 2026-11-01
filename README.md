@@ -33,7 +33,7 @@
 
 <br/>
 
-![GitHub Views](https://komarev.com/ghpvc/?username=Asad-Aziz-001&label=Repository%20Views&color=blue&style=flat)
+![HearWise Views](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/Asad-Aziz-001/HearWise&query=$.watchers_count&label=Repo%20Views&color=blue&logo=github)
 ![GitHub Stars](https://img.shields.io/github/stars/Asad-Aziz-001/hearwise?style=social)
 ![GitHub Forks](https://img.shields.io/github/forks/Asad-Aziz-001/hearwise?style=social)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome%20🎉-brightgreen?style=flat-square)](https://github.com)
